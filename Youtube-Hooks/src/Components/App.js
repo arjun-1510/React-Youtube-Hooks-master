@@ -8,7 +8,7 @@ import useVideos from '../Hooks/useVideos'
 const App = () => {
     const [selectedVideo,setSelectedVideo]=useState(null);
 
-   const [videos,search] = useVideos('Intelligent investor');  // custom hooks-useVideos
+   const [videos,search] = useVideos('Intelligent Investor');  // custom hooks-useVideos
   
 
     useEffect(()=>{
