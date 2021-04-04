@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Youtube-Hooks-master/static/css/main.f61c9878.chunk.css",
+    "main.js": "/React-Youtube-Hooks-master/static/js/main.675ab13b.chunk.js",
+    "main.js.map": "/React-Youtube-Hooks-master/static/js/main.675ab13b.chunk.js.map",
+    "runtime-main.js": "/React-Youtube-Hooks-master/static/js/runtime-main.472d7299.js",
+    "runtime-main.js.map": "/React-Youtube-Hooks-master/static/js/runtime-main.472d7299.js.map",
+    "static/js/2.dec43749.chunk.js": "/React-Youtube-Hooks-master/static/js/2.dec43749.chunk.js",
+    "static/js/2.dec43749.chunk.js.map": "/React-Youtube-Hooks-master/static/js/2.dec43749.chunk.js.map",
+    "index.html": "/React-Youtube-Hooks-master/index.html",
+    "static/css/main.f61c9878.chunk.css.map": "/React-Youtube-Hooks-master/static/css/main.f61c9878.chunk.css.map",
+    "static/js/2.dec43749.chunk.js.LICENSE.txt": "/React-Youtube-Hooks-master/static/js/2.dec43749.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472d7299.js",
+    "static/js/2.dec43749.chunk.js",
+    "static/css/main.f61c9878.chunk.css",
+    "static/js/main.675ab13b.chunk.js"
+  ]
+}
